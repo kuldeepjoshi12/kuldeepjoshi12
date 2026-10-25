@@ -8,7 +8,7 @@ Currently, I'm working on my own educational app, **Edumaster**, focused on crea
 
 I'm also exploring AI-powered applications, automation, and innovative ideas that can make technology more useful and accessible.
 
-Proud Member of @airreclub, where I continue to explore science, technology, robotics, and innovation.
+Proud Member of **@airreclub**, where I continue to explore science, technology, robotics, and innovation.
 
 **More about me & my work:**
 https://kuldeepjoshi.oneapp.dev/
