@@ -6,7 +6,7 @@ I love turning ideas into real applications and experimenting with new technolog
 
 Currently, I'm working on my own educational app, **Edumaster**, focused on creating a better learning experience with technology and AI.
 
-Proud Member of **@airre-club**, 
+Proud Member of **@airre-club** , 
 
 **More about me & my work:**
 https://kuldeepjoshi.oneapp.dev/
